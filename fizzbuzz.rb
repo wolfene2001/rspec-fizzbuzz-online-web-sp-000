@@ -9,7 +9,7 @@ def fizzbuzz(int)
   else int % 5 == 0
     "Buzz"
 
-#  else int % 3 || int % 5 != 0
-#    nil
+  else int % 3 || int % 5 != 0
+    nil
   end
 end
